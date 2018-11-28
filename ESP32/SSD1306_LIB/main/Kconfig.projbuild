@@ -1,0 +1,9 @@
+menu "SSD1306 DEMO"
+
+menuconfig SSD1306_6432
+  config SSD1306_6432
+     help
+     bool "use SSD1306_6432"
+
+endmenu
+
